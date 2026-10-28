@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nur Syafinah
 
-<!--
-**syafinah-nur/syafinah-nur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UiTM interested in AI, data analytics, and machine learning.
 
-Here are some ideas to get you started:
+## About me
+- Studying: CDCS230 - BACHELOR OF COMPUTER SCIENCE (HONOURS), UiTM
+- Currently learning: Machine Learning, Time-Series Forecasting, and Git/GitHub workflow
+- My FYP area: Data-Driven Early Warning System for Flash Flood Prediction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+Python, SQL, Git
+
+## Projects
+- Data-Driven Early Warning System for Flash Flood Prediction (wip) : Formulating system requirements and machine learning workflows to forecast urban flash flood risks in advance
+
+## Contact
+- LinkedIn: https://my.linkedin.com/in/syafinah-j-a5b73b232
+- Email: syafinahj.nur@gmail.com
